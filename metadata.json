@@ -1,0 +1,6 @@
+{
+  "name": "KOMBAT Absensi",
+  "description": "Sistem Absensi Pengenalan Wajah Android dengan Liveness Detection (Blink & Smile) dan Offline-First Sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
